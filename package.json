@@ -1,0 +1,16 @@
+{
+  "name": "qzzr-deploy",
+  "version": "0.1.0",
+  "description": "deploy qzzr apps automagically",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Bytheway <cameron@qzzr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "poe-deploy": "^0.1.6",
+    "startup": "^1.0.3",
+    "superagent": "git://github.com/visionmedia/superagent#b268f9e85676319b970de8eca5a955a1d60bfa51"
+  }
+}
